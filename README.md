@@ -1,6 +1,4 @@
-# kaz-kobayashi
-
-first line of readme
+# 小林和博
 
 青山学院大学理工学部経営システム工学科
 
